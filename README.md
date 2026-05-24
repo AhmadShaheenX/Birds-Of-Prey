@@ -1,4 +1,4 @@
-# Birds_Of_Prey_Simulator
+# Birds-Of-Prey
 COMP9001 Final Project
 
 'Birds of Prey' is an interactive survival game developed in Python, played through text.
